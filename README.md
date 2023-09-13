@@ -1,3 +1,5 @@
 # HungerGames
 
-originally made by AIDEN THUMBTACK CREDIT TO HIM HES COOL
+=============
+
+originally made by [AIDRIAN THUMBTACK](https://github.com/adrian-thumbtack)CREDIT TO HIM HES COOL
