@@ -1,5 +1,14 @@
 var weapons =
-["ur mom"];
+["landmine",
+"bow",
+"melee",
+"paintball",
+"basketball",
+"octobrush",
+"fidget spinner",
+"assault rifle",
+"frisbee",
+"tank"];
 
 var melee =
 ["sword",
