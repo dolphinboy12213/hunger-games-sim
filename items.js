@@ -152,6 +152,7 @@ var killCauseAndEffect =
 "shoots",
 "melee",
 "kills",
+"no-scopes them self",
 "paintball",
 "brings one less paintball, so",
 "basketball",
